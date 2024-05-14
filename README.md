@@ -2,7 +2,7 @@
 
 Meu Nome é Yuri Assunção
 
-- Estou Estudando na Alura
+- Estou Estudando na [Alura](https://www.alura.com.br)
 - Estou me Desenvolvendo na Linguagem JavaScript
 - Utilizo ese espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
